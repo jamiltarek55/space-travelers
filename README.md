@@ -24,7 +24,7 @@ For this repository, We've created a project to create a React app using Redux, 
 - Redux Toolkit
 - API/Testing
 
-### Install
+### App Installation And Running Process
 
 To get a local copy up and running follow these simple example steps.
 
