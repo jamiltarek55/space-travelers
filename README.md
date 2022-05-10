@@ -8,7 +8,7 @@ For this repository, We've created a project to create a React app using Redux, 
 
 <center>
 <div>
-    <img src="./assets/assets/Space.PNG">
+    <img src="./assets/space.PNG">
 </div>
 </center>
 
